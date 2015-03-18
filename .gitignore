@@ -2,3 +2,5 @@
 /deps
 erl_crash.dump
 *.ez
+music_unlimited_playlist_parser
+*.swp

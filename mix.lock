@@ -1,0 +1,4 @@
+%{"exjson": {:hex, :exjson, "0.3.0"},
+  "exjsx": {:hex, :exjsx, "3.1.0"},
+  "jazz": {:hex, :jazz, "0.2.1"},
+  "jsx": {:hex, :jsx, "2.4.0"}}
