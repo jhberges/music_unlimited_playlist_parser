@@ -3,7 +3,7 @@ defmodule PlayListParser.Mixfile do
 
   def project do
     [app: :music_unlimited_playlist_parser,
-     version: "0.1.0",
+     version: "0.1.1",
      elixir: "~> 1.0",
      escript: escript,
      deps: deps]
